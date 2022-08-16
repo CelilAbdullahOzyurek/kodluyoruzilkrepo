@@ -9,9 +9,9 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde b
 ## Usage 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız
 Linux için:
-```cd kodluyoruzilkrepo
-   code .                    ```
-   
+`cd kodluyoruzilkrepo
+   code .                
+     
 ## Contributing
 pull requestler kabul edilir.Büyük değişiklikler için , lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
