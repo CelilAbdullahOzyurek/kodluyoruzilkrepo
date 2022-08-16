@@ -11,7 +11,8 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde b
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız
 Linux için:
 
-```  cd kodluyoruzilkrepo
+``` 
+cd kodluyoruzilkrepo
    code .   
 ```          
      
